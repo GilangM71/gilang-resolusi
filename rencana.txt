@@ -1,0 +1,10 @@
+Rencana Saya Kedepannya
+1 Belajar Dasar Pemograman
+- HTML
+- CSS 
+- JAVASCRIPT
+2 Memulai Belajar Ke tingkat Yang Lebih Tinggi Lagi Dari
+- HTML
+- CSS 
+- JAVASCRIPT
+3 Mempelajari Konsep Hoisting Scope Dan Prototype
